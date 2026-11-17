@@ -20,7 +20,7 @@ Aplicación web interactiva desarrollada en **Streamlit** con diseño *Dark-Tech
      * *Perfil B*: Riesgo Moderado (Promedio).
      * *Perfil C*: Riesgo Alto (Crítico).
 5. **Enlaces Integrados**:
-   * Acceso directo al **Informe Técnico en GitHub Pages** (`https://davidagr5421.github.io/Trabajo02RedesNeuronales/`), repositorio GitHub y video demo.
+   * Acceso directo al **Informe Técnico en GitHub Pages** (`https://david542agr-ctrl.github.io/Trabajo02_Redes-redo/`), repositorio GitHub y video demo.
 
 ---
 

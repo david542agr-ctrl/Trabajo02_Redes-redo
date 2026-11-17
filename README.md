@@ -4,7 +4,7 @@
 **Institución:** Universidad Nacional de Colombia — Facultad de Minas  
 **Semestre:** 2026-02  
 **Dataset original:** [Lending Club - Credit Risk Analysis (Kaggle)](https://www.kaggle.com/datasets/ranadeep/credit-risk-dataset)  
-**Reporte Técnico (GitHub Pages):** [https://davidagr5421.github.io/Trabajo02RedesNeuronales/](https://davidagr5421.github.io/Trabajo02RedesNeuronales/)
+**Reporte Técnico (GitHub Pages):** [https://david542agr-ctrl.github.io/Trabajo02_Redes-redo/](https://david542agr-ctrl.github.io/Trabajo02_Redes-redo/)
 
 ---
 
@@ -139,5 +139,5 @@ python exportar_artefactos.py
 
 ## 🌐 Publicación en GitHub Pages y Streamlit Community Cloud
 
-* **GitHub Pages:** Publicado en `https://davidagr5421.github.io/Trabajo02RedesNeuronales/` (apuntando a la carpeta `docs/` o a la raíz con `.nojekyll`).
+* **GitHub Pages:** Publicado en `https://david542agr-ctrl.github.io/Trabajo02_Redes-redo/` (apuntando a la carpeta `docs/` o a la raíz con `.nojekyll`).
 * **Streamlit Cloud:** Compatible seleccionando `app.py` o `app_streamlit/app.py` como archivo principal.

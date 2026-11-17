@@ -18,4 +18,4 @@ Esta carpeta contiene la publicación web estática del **Informe Técnico** y e
 ## 🔗 URL Pública del Sitio
 
 El sitio se despliega en:
-**`https://davidagr5421.github.io/Trabajo02RedesNeuronales/`**
+**`https://david542agr-ctrl.github.io/Trabajo02_Redes-redo/`**
